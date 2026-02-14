@@ -3,6 +3,6 @@ import os
 
 load_dotenv()
 
-API=os.getenv("API")
+TG_API=os.getenv("TG_API")
 
 
