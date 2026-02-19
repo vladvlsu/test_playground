@@ -12,5 +12,6 @@ TG_CODE=os.getenv("TG_CODE")
 # bot api
 TG_BOT=os.getenv("TG_BOT")
 
+OPENAI_API=os.getenv("OPENAI_API")
 
 
